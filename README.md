@@ -40,8 +40,8 @@ This project relies on the following repositories:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/
-   cd servo-control-esp32
+   git clone https://github.com/victorrossh/ESP32-Pet-Dispenser.git
+   cd ESP32-Pet-Dispenser
 
 2. **Wi-Fi Configuration**:
     ```bash
